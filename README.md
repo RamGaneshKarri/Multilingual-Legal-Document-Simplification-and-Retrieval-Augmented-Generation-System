@@ -15,7 +15,7 @@ A complete AI-powered system that simplifies complex legal documents, extracts l
 
 ---
 
-##  How It Works (Simple Explanation)
+##  How It Works 
 
 ### 1. **Document Upload**
 User uploads a legal document → Backend extracts text → Stores in MongoDB
